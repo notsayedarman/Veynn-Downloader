@@ -14,7 +14,7 @@ May break on some sites depending on structure or image-loading methods.
   ```
   Veynn/<Title>/chapter/<Number>/img_001.jpg
   ```
-- Works on manga reader sites like `mangaread.org`, etc.
+- Works on manga reader sites like `mangaread.org`,`mangafire.to` etc.
 
 ---
 
