@@ -41,7 +41,7 @@ May break on some sites depending on structure or image-loading methods.
 
 7. Pin the extension
 
-8. ## USE A ADBLOCKER TO PREVENT DOWNLOADING UNWANTED IMAGES
+## USE A ADBLOCKER TO PREVENT DOWNLOADING UNWANTED IMAGES
 
 ---
 
