@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Veynn Downloader</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      font-family: monospace;
+      background: #0a0a0a;
+      color: #00ffcc;
+      margin: 0;
+      padding: 10px;
+      width: 320px;
+      height: auto;
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 1.1rem;
+      margin-bottom: 8px;
+      color: #00ffaa;
+      text-shadow: 0 0 4px #00ffaa;
+    }
+
+    button {
+      display: block;
+      width: 100%;
+      background: linear-gradient(90deg, #00ffaa, #00ccff);
+      color: #000;
+      border: none;
+      border-radius: 4px;
+      padding: 8px;
+      font-weight: bold;
+      cursor: pointer;
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
+    }
+    button:hover {
+      transform: scale(1.03);
+      box-shadow: 0 0 8px #00ffaaaa;
+    }
+
+    pre {
+      margin-top: 10px;
+      font-size: 0.8rem;
+      line-height: 1.2;
+      height: 180px;
+      overflow-y: auto;
+      border: 1px solid #00ffaa55;
+      border-radius: 4px;
+      padding: 6px;
+      background: #111;
+      color: #0f0;
+      box-shadow: inset 0 0 6px #00ffaa22;
+      scrollbar-width: thin;
+      scrollbar-color: #00ffaa33 transparent;
+    }
+  </style>
+</head>
+<body>
+  <h1>Veynn Downloader</h1>
+  <button id="start">Start</button>
+  <pre id="logs"></pre>
+  <script src="popup.js"></script>
+</body>
+</html>
