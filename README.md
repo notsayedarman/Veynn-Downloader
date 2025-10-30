@@ -21,18 +21,27 @@ May break on some sites depending on structure or image-loading methods.
 ## 🧰 Installation
 
 1. Download all project files and extract zip file.
-2. Open **Chrome** and go to:
+![Alt text](https://media.discordapp.net/attachments/1433507733323382814/1433508288649105438/Screenshot_2.png?ex=6904f221&is=6903a0a1&hm=53272b2b2c403579c19db8c7c407c0081e397c4ef7c24cfa35512ce39dd5f8d3&=&format=webp&quality=lossless&width=1231&height=693)
+
+2. Extract project zip file.
+![Alt text](https://media.discordapp.net/attachments/1433507733323382814/1433507873341575240/Screenshot_2025-10-30_224920.png?ex=6904f1be&is=6903a03e&hm=5a5ee1268f0f3f01e911776c26702fb2eef07e7c9a860d3ed26447b9927df24d&=&format=webp&quality=lossless&width=1233&height=693)
+
+3. Open **Chrome** and go to:
    ```
    chrome://extensions/
    ```
 
-3. Enable **Developer mode** (top right).
+4. Enable **Developer mode** (top right).
 
-4. Click **Load unpacked** and select the `Veynn-Downloader-main` folder.
+5. Click **Load unpacked** and select the `Veynn-Downloader-main` folder.
+![Alt text](https://media.discordapp.net/attachments/1433507733323382814/1433507872054055025/Screenshot_2025-10-30_225015.png?ex=6904f1bd&is=6903a03d&hm=dcc3d5c7451d5d4bbeff75b6f1c3e8b584e91818fb47936e1d40b9a42948fe4e&=&format=webp&quality=lossless&width=1233&height=693)
+![Alt text](https://media.discordapp.net/attachments/1433507733323382814/1433507872486064169/Screenshot_2025-10-30_225045.png?ex=6904f1be&is=6903a03e&hm=8549488f6ccb892416e769a89726352e32eaa4564ccefca6289ef9b9075f4a16&=&format=webp&quality=lossless&width=1233&height=693)
 
-5. The extension icon should now appear on the Chrome Extensions.
+6. The extension icon should now appear on the Chrome Extensions.
 
-6. Pin the extension
+7. Pin the extension
+
+8. ## USE A ADBLOCKER TO PREVENT DOWNLOADING UNWANTED IMAGES
 
 ---
 
@@ -48,8 +57,6 @@ May break on some sites depending on structure or image-loading methods.
    Completed.
    ```
 4. Downloads will be saved to your browser’s default **Downloads** folder.
-
-## USE A ADBLOCKER TO PREVENT DOWNLOADING UNWANTED IMAGES
 
 ---
 
