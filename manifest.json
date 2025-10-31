@@ -1,13 +1,14 @@
 {
   "manifest_version": 3,
   "name": "Veynn Downloader",
-  "version": "3.1",
+  "version": "2.0",
   "description": "Downloads all valid non-GIF images larger than 200 KB from the current manga, manhua, manhwa, comic, or donghua chapter page. May not work on some sites.",
+  "permissions": ["activeTab", "downloads", "scripting", "tabs"],
   "icons": {
     "48": "icons/icon48.png",
     "128": "icons/icon128.png"
   },
-  "permissions": ["activeTab", "downloads", "scripting", "tabs"],
+  "host_permissions": ["<all_urls>"],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
@@ -18,5 +19,15 @@
   },
   "background": {
     "service_worker": "background.js"
-  }
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "collector.js",
+        "config/*",
+        "assets/background.jpg"
+      ],
+      "matches": ["<all_urls>"]
+    }
+  ]
 }

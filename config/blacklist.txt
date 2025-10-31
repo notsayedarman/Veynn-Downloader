@@ -1,0 +1,11 @@
+# ------------------------------------------------------------------
+#  PERSONAL BLACKLIST – one URL (or part of it) per line
+#  Works with blob:, http:, data:
+#  Examples:
+#  blob:https://www.colamanga.com/968e9850-09f0-4f62-a60a-3554ce3cd060
+#  pubfuture.com
+#  banner
+# ------------------------------------------------------------------
+
+pubfuture.com
+banner
