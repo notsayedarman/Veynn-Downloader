@@ -63,25 +63,15 @@ May break on some sites depending on structure or image-loading methods.
 ## ⚙️ Customization
 
 ### 1. Replace Words  
-Edit `config/replace.txt` and add site names or unwanted words to remove from folder titles.  
+Edit `config/ignore.txt` and add site names or unwanted words to remove from folder titles.  
 Example:
 ```
 mangaread
 chapter
 read
-```
-
-### 2. Minimum Image Size  
-In `popup.js`, change the line:
-```js
-const minSizeKB = parseInt(document.getElementById("minSize").value) || 200;
-```
-Change `200` to any KB value you prefer.
-
----
 
 ## 🧪 Tested On
-- `mangaread.org`
+- `mangaread.org` `colamanga`
 - Any site where images are in `<img src="...">`.
 
 ---
