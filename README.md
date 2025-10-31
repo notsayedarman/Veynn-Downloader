@@ -7,7 +7,8 @@ May break on some sites depending on structure or image-loading methods.
 ---
 
 ## 📦 Features
-- Downloads all `<img>` elements from current tab.  
+- Downloads all `<img>` elements from current tab.
+- Progress bar with logs. 
 - Skips `.gif` files automatically.  
 - Cleans titles using `config/replace.txt`.  
 - Saves files as:
@@ -15,6 +16,9 @@ May break on some sites depending on structure or image-loading methods.
   Veynn/<Title>/chapter/<Number>/img_001.jpg
   ```
 - Works on manga reader sites like `mangaread.org`,`mangafire.to` etc.
+
+![Alt text](https://media.discordapp.net/attachments/1433507733323382814/1433893062001557575/Screenshot_2025-11-01_002615.png?ex=6906587a&is=690506fa&hm=ea9abb45a7e168da0dc7f6e8b904de8c4823f5f739d9a28ac1245521b7143cd3&=&format=webp&quality=lossless&width=1233&height=693)
+![Alt text](https://media.discordapp.net/attachments/1433507733323382814/1433893062601605271/Screenshot_2025-11-01_002644.png?ex=6906587a&is=690506fa&hm=1f73444453b8d6fe73484c0fd9c0edb1e637dc6cbddd9ffa85034083cad3ddc3&=&format=webp&quality=lossless&width=528&height=691)
 
 ---
 
